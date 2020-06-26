@@ -1,7 +1,7 @@
 # nginx-test2
 
 1. Build
-'''
+```
 $ docker build --tag ohchang3/nginx-test2 .
 Sending build context to Docker daemon  56.83kB
 Step 1/4 : FROM ubuntu
