@@ -23,7 +23,7 @@ SECURITY WARNING: You are building a Docker image from Windows against a non-Win
 $ winpty docker run -it --name n1 -p 8888:80 ohchang3/nginx-test2
 
 3. nginx 서버 작동
-![images](screenshot.png)
+![image](screenshot.png)
 
 
 
